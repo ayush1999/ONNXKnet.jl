@@ -1,0 +1,9 @@
+"name" = "ONNXKnet"
+"uuid" = "c1fb8ad6-a509-5b9d-ae25-8eccaa708b82"
+
+[deps]
+
+ProtoBuf = "3349acd9-ac6a-5e09-bcdb-63829b23a429"
+MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
+Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
+BSON = "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"
